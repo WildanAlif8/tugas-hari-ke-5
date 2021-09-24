@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+*.nama{
+    font-family: 'Kaushan Script', cursive;
+}
+body {
+    background-color: beige;
+}
+
+.hover{
+   background: yellow;
+   padding:3px 8px;
+   width:200px;
+}
+
+.nama{
+    max-width: 50%;
+    width: 500px;
+    font-size: 20px;
+    font-weight: 900;
+    color:green;
+}
+*.sosmed{
+    font-family: 'Paytone One', sans-serif;
+}
+.sosmed{
+    max-width: 50%;
+    width: 500px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.INSPIRASI{
+    max-width: 50%;
+    width: 500px;
+    font-size: 20px;
+    font-weight: 900;
+    color: green;
+}
+.prestasi{
+    font-size: 20px;
+    font-weight: 900;
+    color:green
+}
+.pengalaman{
+    font-size: 20px;
+    font-weight: 900;
+    color:green
+}
+.table{
+    backgroung:  black;
+    font-size: 20px;
+    font-weight: 200;
+    padding:3px 8px;
+    color:green
+}
